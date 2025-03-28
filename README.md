@@ -30,6 +30,8 @@ The Web app has media queries implemented. Therefore, the user can navigate from
 ![Screenshot2](screenshots/Screenshot8.webp)
 
 ### about.php
+
+Crawling letters made with JavaScript
 ![Screenshot2](screenshots/Screenshot9.webp)
 
 ### movies.php
