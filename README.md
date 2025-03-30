@@ -112,6 +112,8 @@ Private view
 
 ![Screenshot3](screenshots/Screenshot27.webp)
 
+![Screenshot3](screenshots/Screenshot35.webp)
+
 
 
 ♦️ You will need a local server and import the database to display the website on your browser. 
