@@ -2,16 +2,16 @@
 
 ✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
 
-. 🎞️Movies 
-. 👤Charachters
-. 🚀Ships
-. 🪐Planets
-. 🌌The Force
-. 🔵Jedis
-. 🔴Siths
-. 👽Alien Races
+#### 🎞️Movies 
+#### 👤Charachters
+#### 🚀Ships
+#### 🪐Planets
+#### 🌌The Force
+#### 🔵Jedis
+#### 🔴Siths
+#### 👽Alien Races
 
-The UX/UI is designed for the users to always know where everything is. The layout is simple to navigate and users can locate information very easily.
+The UX/UI is designed for the users to always know where everything is#### The layout is simple to navigate and users can locate information very easily.
 
 📱The web app has media queries implemented. Therefore, the user can navigate from any mobile device.
 
