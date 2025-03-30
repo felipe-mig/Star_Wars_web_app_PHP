@@ -1,6 +1,6 @@
 ## 📄 Description
 
-✨This `#0969DA`<strong>Star Wars - Original Trilogy</strong>`#0969DA` web app is built with PHP and JavaScript. A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
+✨This `#RRGGBB` <strong>Star Wars - Original Trilogy</strong> `#RRGGBB` web app is built with PHP and JavaScript. A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
 
 ##### 🎞️Movies 
 ##### 👤Characters
