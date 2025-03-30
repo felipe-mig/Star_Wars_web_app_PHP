@@ -21,6 +21,7 @@ The UX/UI is designed for the users to always know where everything is at any ti
 * No AI code 🚫🤖
 
 
+
 ## 🛢️ Database Connection
 
 - User: <i>mri</i> 
