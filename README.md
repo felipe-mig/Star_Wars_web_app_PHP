@@ -3,7 +3,7 @@
 ✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
 
 ##### 🎞️Movies 
-##### 👤Charachters
+##### 👤Characters
 ##### 🚀Ships
 ##### 🪐Planets
 ##### 🌌The Force
@@ -93,15 +93,15 @@ Private view
 
 ![Screenshot3](screenshots/Screenshot22.webp)
 
+![Screenshot3](screenshots/Screenshot32.webp)
+
 ![Screenshot3](screenshots/Screenshot30.webp)
 
-![Screenshot3](screenshots/Screenshot32.webp)
+![Screenshot3](screenshots/Screenshot21.webp)
 
 ![Screenshot3](screenshots/Screenshot33.webp)
 
 ![Screenshot3](screenshots/Screenshot34.webp)
-
-![Screenshot3](screenshots/Screenshot21.webp)
 
 ![Screenshot3](screenshots/Screenshot24.webp)
 
