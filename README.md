@@ -1,6 +1,6 @@
 ## 📄 Description
 
-✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. There are a public view and a private view where the user can CREATE, READ, UPDATE and DELETE records.
+✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE records.
 The UX/UI is designed for the user to always know where everything is. The layout is simple to navigate and users can locate information very easily.
 
 📱The web app has media queries implemented. Therefore, the user can navigate from any mobile device.
