@@ -1,6 +1,6 @@
 ## 📄 Description
 
-✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. There are a public view and a private view where the user can CREATE, READ, UPDATE and DELETE records.
+✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript.  There are a public view and a private view where the user can CREATE, READ, UPDATE and DELETE records.
 
 📱The web app has media queries implemented. Therefore, the user can navigate from any mobile device.
 
@@ -116,7 +116,7 @@ Steps to start the server:
 
 3. Replace the removed <strong>htdocs</strong> folder for the one on this project.
 
-4. In your browser type the following URL: 
+4. In your browser, type the following URL: 
 
    127.0.0.1:80/phpMyAdmin5/
 
@@ -130,13 +130,15 @@ Steps to start the server:
 
 7. Below, look for the <strong>global privileges</strong> label and set it to Check all.
 
-8. On the right side nav bar look for New, and create a database with the same name as the SQL file. 
+8. On the right side nav bar, look for New, and create a database with the same name as the SQL file. 
 
    In this case:  <i>starwarsdb.sql</i>
 
-9. Once it is done, go to the recently created database. Next, on the top nav bar look for the <strong>Import</strong> tab.
+9. Once it is done, go to the recently created database. Next, on the top nav bar, look for the <strong>Import</strong> tab.
 
 10. Browse the SQL file on your computer and click on <strong>Go</strong>.
+
+11. The last step is navigating the website. Therefore, type 127.0.0.1:80/ on your browser URL bar.
   
 
 
