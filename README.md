@@ -1,11 +1,19 @@
 ## 📄 Description
 
-✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE records.
+✨This <strong>Star Wars - Original Trilogy</strong> web app is built with PHP and JavaScript. A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
+
+🎞️Movies 
+👤Charachters
+🚀Ships
+🪐Planets
+🌌The Force
+🔵Jedis
+🔴Siths
+👽Alien Races
+
 The UX/UI is designed for the users to always know where everything is. The layout is simple to navigate and users can locate information very easily.
 
 📱The web app has media queries implemented. Therefore, the user can navigate from any mobile device.
-
-A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize data retrieval.
 
 
 * No frameworks
@@ -30,11 +38,12 @@ A <i>Search Bar</i> and <i>Sort By</i> functions have been added to optimize dat
 ### index.php
 ![Screenshot1](screenshots/Screenshot7.webp)
 
-![Screenshot2](screenshots/Screenshot8.webp)
+![Screenshot2](screenshots/Screenshot31.webp)
 
 ### about.php
 
 Crawling letters made with JavaScript
+
 ![Screenshot2](screenshots/Screenshot9.webp)
 
 ### movies.php
@@ -44,7 +53,9 @@ Crawling letters made with JavaScript
 ![Screenshot2](screenshots/Screenshot17.webp)
 
 ### characters.php
-public view
+
+Public view
+
 ![Screenshot2](screenshots/Screenshot11.webp)
 
 ![Screenshot2](screenshots/Screenshot18.webp)
@@ -53,10 +64,11 @@ public view
 
 ![Screenshot2](screenshots/Screenshot29.webp)
 
-private view
-![Screenshot2](screenshots/Screenshot12.webp)
+Private view
 
-![Screenshot2](screenshots/Screenshot11.webp)
+![Screenshot2](screenshots/Screenshot8.webp)
+
+![Screenshot2](screenshots/Screenshot12.webp)
 
 ![Screenshot2](screenshots/Screenshot14.webp)
 
@@ -75,11 +87,19 @@ private view
 ### login.php
 ![Screenshot3](screenshots/Screenshot19.webp)
 
-### responsive view
+### Responsive view
 
 ![Screenshot3](screenshots/Screenshot23.webp)
 
 ![Screenshot3](screenshots/Screenshot22.webp)
+
+![Screenshot3](screenshots/Screenshot30.webp)
+
+![Screenshot3](screenshots/Screenshot32.webp)
+
+![Screenshot3](screenshots/Screenshot33.webp)
+
+![Screenshot3](screenshots/Screenshot34.webp)
 
 ![Screenshot3](screenshots/Screenshot21.webp)
 
