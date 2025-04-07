@@ -112,14 +112,16 @@ Private view
 
 ![Screenshot3](screenshots/Screenshot27.webp)
 
+Validate user
 ![Screenshot3](screenshots/Screenshot35.webp)
 
+Search bar function
 ![Screenshot3](screenshots/Screenshot36.webp)
 
 Read data
 ![Screenshot3](screenshots/Screenshot40.webp)
 
-Control Programming
+Control Programming for showing what are you updating
 ![Screenshot3](screenshots/Screenshot41.webp)
 ![Screenshot3](screenshots/Screenshot42.webp)
 
