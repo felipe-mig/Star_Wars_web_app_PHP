@@ -116,6 +116,12 @@ Private view
 
 ![Screenshot3](screenshots/Screenshot36.webp)
 
+Read data
+![Screenshot3](screenshots/Screenshot40.webp)
+
+Control Programming
+![Screenshot3](screenshots/Screenshot41.webp)
+![Screenshot3](screenshots/Screenshot42.webp)
 
 
 ♦️ You will need a local server and import the database to display the website on your browser. 
