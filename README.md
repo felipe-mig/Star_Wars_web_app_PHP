@@ -1,6 +1,6 @@
 ## 📄 Description
 
-✨This <strong>Star Wars - Original Trilogy</strong> web app is built with vanilla PHP, CSS and JavaScript. Data retrieval is performed using a SQL database. A <i>search bar</i> and <i>sort by</i> functions have been added to optimize data retrieval. There are a public view and a private view where the users can CREATE, READ, UPDATE and DELETE:
+✨This <strong>Star Wars - Original Trilogy</strong> web app is built with vanilla PHP, CSS and JavaScript. Data retrieval is performed using a SQL database. Images are optimized using webP format. A <i>search bar</i> and <i>sort by</i> functions have been added to optimize data retrieval. There are a public view and a private view, accessible through a Login form where the users can CREATE, READ, UPDATE and DELETE:
 
 ##### 🎞️Movies 
 ##### 👤Characters
